@@ -56,14 +56,14 @@
   line-height: 14px;
 }
 
-.card__price-tag {
+.price__price-tag {
   color: #616070;
   font-size: 12px;
   line-height: 18px;
   font-weight: 400;
 }
 
-.card__price-amount {
+.price__price-amount {
   color: #060b35;
   font-weight: 700;
   font-size: 16px;
