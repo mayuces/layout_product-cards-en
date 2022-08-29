@@ -49,18 +49,6 @@
   line-height: 14px;
 }
 
-.price__price-tag {
-  color: var(--grey);
-  font-size: 12px;
-  line-height: 18px;
-}
-
-.price__price-amount {
-  color: var(--dark);
-  font-weight: 700;
-  font-size: 16px;
-}
-
 .card__button {
   box-sizing: border-box;
   display: flex;
@@ -85,8 +73,4 @@
   color: var(--blue);
   border-color: var(--blue);
 
-}
-
-p {
-  margin: 0;
 }

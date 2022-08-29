@@ -1,7 +1,10 @@
-
 body {
   margin: 0;
   font-family: "Roboto", sans-serif;
   font-size: 10px;
   box-sizing: border-box;
+}
+
+p {
+  margin: 0;
 }
